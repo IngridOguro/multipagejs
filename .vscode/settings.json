@@ -1,0 +1,8 @@
+{
+  "liveServer.settings.ignoreFiles": ["**"],
+  "liveServer.settings.proxy": {
+    "enable": true,
+    "baseUri": "/",
+    "proxyUri": "http://localhost:5500"
+  }
+}
